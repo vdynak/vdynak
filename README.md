@@ -1,4 +1,4 @@
-Hi, my name is Victoria. 
+🔭Victoria
 
 Interests: AI/Machine Learning, Software Engineering, and Data Science.
 
