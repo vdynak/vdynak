@@ -2,8 +2,6 @@
 
 Interests: AI/Machine Learning, Software Engineering, and Data Science.
 
-Languages: C++, Python, Swift, HTML/CSS
-
 In-Progress: PHP, Java, JS, MySQL
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdynak&layout=compact"/>
