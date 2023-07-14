@@ -1,3 +1,6 @@
+🔭 I’m interested in AI/Machine Learning, Software Engineering, and Data Science.
+
+🌱 I’m currently learning PHP, Java, JS.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdynak&layout=compact)
 
@@ -8,12 +11,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <!--
 **vdynak/vdynak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-🔭Victoria
-
-Interests: AI/Machine Learning, Software Engineering, and Data Science.
-
-In-Progress: PHP, Java, JS, MySQL
-
 
 Here are some ideas to get you started:
 
