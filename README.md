@@ -1,3 +1,8 @@
+Hi, my name is Victoria. 
+Interests: AI/Machine Learning, Software Engineering, and Data Science.
+Languages: C++, Python, Swift, HTML/CSS
+In-Progress: PHP, Java, JS, MySQL
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdynak&layout=compact)
 
 <!--
