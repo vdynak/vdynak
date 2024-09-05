@@ -1,6 +1,5 @@
 🔭 I’m interested in AI/Machine Learning, Software Engineering, and Data Science.
 
-🌱 I’m currently learning PHP, Java, JS.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdynak&layout=compact)
 
